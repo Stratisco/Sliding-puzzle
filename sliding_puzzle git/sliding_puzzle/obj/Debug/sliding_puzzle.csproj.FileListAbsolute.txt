@@ -1,0 +1,48 @@
+C:\User Program Files\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.exe.config
+C:\User Program Files\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.exe
+C:\User Program Files\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.pdb
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.AssemblyReference.cache
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.SuggestedBindingRedirects.cache
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\MainWindow.g.cs
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\App.g.cs
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.cache
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.lref
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\MainWindow.baml
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.g.resources
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.Properties.Resources.resources
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.GenerateResource.cache
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.CoreCompileInputs.cache
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.exe
+C:\User Program Files\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.pdb
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.AssemblyReference.cache
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.SuggestedBindingRedirects.cache
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\MainWindow.g.cs
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\App.g.cs
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.cache
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.lref
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.exe
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.pdb
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.exe.config
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.exe
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\bin\Debug\sliding_puzzle.pdb
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\MainWindow.baml
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.g.resources
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.Properties.Resources.resources
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.GenerateResource.cache
+C:\User Program Files\VisualStudio\sliding_puzzle\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.CoreCompileInputs.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\bin\Debug\sliding_puzzle.exe.config
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\bin\Debug\sliding_puzzle.exe
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\bin\Debug\sliding_puzzle.pdb
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.AssemblyReference.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.SuggestedBindingRedirects.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\MainWindow.g.cs
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\App.g.cs
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle_MarkupCompile.lref
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\MainWindow.baml
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.g.resources
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.Properties.Resources.resources
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.GenerateResource.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.csproj.CoreCompileInputs.cache
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.exe
+C:\User Program Files\sliding_puzzle git\sliding_puzzle\obj\Debug\sliding_puzzle.pdb
