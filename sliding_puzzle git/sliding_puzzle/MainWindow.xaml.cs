@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -337,7 +337,7 @@ namespace sliding_puzzle {
                 MessageBox.Show("Can you hear me my follower? I have something for you.", "The Creator");
                 MessageBox.Show("A symbol of your great mind.", "The Creator");
                 MessageBox.Show("Consider it a gift from...", "The Creator");
-                MessageBox.Show("...The Nine.", "The Creator"); 
+                MessageBox.Show("...A Friend.", "The Creator"); 
                 trophy.Opacity = 1;
                 worth.Opacity = 0;
                 worth.IsEnabled = false; 
